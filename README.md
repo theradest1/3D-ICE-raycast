@@ -1,7 +1,7 @@
 # 3D-ICE-raycast
 A 3D raycast programmed in ICE for the TI 84+ CE
 
-All of this has been tested and works with my TI-84+CE
+All of this has been tested and works with my TI-84+CE (OS 5.3.0.0037)
 
 --------------------------------------------------------------
 Directions:
