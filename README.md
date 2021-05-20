@@ -8,7 +8,7 @@ Directions:
 
 If you want to view the code before compiling, download the A3DICE file and send it to your calculator. You will be able to edit it like a TI-basic program but it wont run without compiling it with the ICE compiler. Go ahead and change a few things around for fun if you want :)
 
-For the compiled program, download and send the A3DCOMP file to your calculator. It should run right away (doesn't need ICE) If your calculator isnt OS 5.3 you may need to do Asm(A3DCOMP  (but you should really update to 5.3)
+For the compiled program, download and send the A3DCOMP file to your calculator. It should run right away (doesn't need ICE) If your calculator isnt OS 5.3 you may need to do Asm(A3DCOMP) by doing 2nd, 0, and the Asm( command will be on the 7th line. But you should really update to OS 5.3 (don't do any OS up from 5.3)
 
 --------------------------------------------------------------
 
