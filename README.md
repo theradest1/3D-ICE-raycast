@@ -1,4 +1,4 @@
-NOTHING HERE WORKS YET!
+NOTHING IN THE MAIN BRANCH WORKS RIGHT NOW!
 
 I am in the middle of a re-write so if you want a working program go to the "Old" branch:
 
