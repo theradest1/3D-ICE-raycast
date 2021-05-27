@@ -1,3 +1,8 @@
+NOTHING HERE WORKS YET!
+I am in the middle of a re-write so if you want a working program go to the "Old" branch.
+
+-------
+
 # 3D-ICE-raycast
 A 3D raycast programmed in ICE for the TI 84+ CE
 
