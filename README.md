@@ -10,3 +10,8 @@ Download and send the ICERAY file to your calculator. It should run right away (
 
 --------------------------------------------------------------
 
+If you want the source, download the RAYSOURCE file. It is still a 8xp program but is uncompiled, so open it on an emulator or your own calculator.
+
+--------------------------------------------------------------
+
+
